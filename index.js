@@ -10,9 +10,9 @@ program
     .action(function(command) {
         fs.readFile(`${command}.json`, 'utf8', function (err, data) {
             if (err) throw err;
-            console.log(prettyjson.render(JSON.parse(data)))
+            console.log(JSON.stringify(JSON.parse(data)));
             if (program.notify) {
-                console.log(`Emailing ${program.notify} with the above diagnostic data`)
+                console.log(`Emailing ${program.notify} with the above diagnostic data`);
             }
         });
     })
