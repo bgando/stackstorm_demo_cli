@@ -2,7 +2,7 @@
     "data": {
         "_id": "5a148f2c0ecca5c9cd172b2c",
         "location": "Test Site 123",
-        "phone": "+1 (801) 559-3097",
+        "phone_number": "+1 (801) 559-3097",
         "address": "457 Malta Street, Springville, Guam, 3164",
         "registered": "2015-06-30T01:20:43 +07:00",
         "latitude": -17.998663,
@@ -12,21 +12,21 @@
                 "work_order_number": "WO-25391",
                 "name": "Guzman Donovan",
                 "company": "ZIALACTIC",
-                "phone": "1 (293) 143-9824",
+                "phone_number": "1 (293) 143-9824",
                 "summary": "Duis sunt nulla ut laboris est minim culpa qui aute mollit aliquip. Ad commodo voluptate elit qui sit proident nisi. Mollit velit occaecat Lorem qui in ipsum ex proident id tempor consequat. Exercitation occaecat ipsum tempor est esse Lorem sunt ullamco reprehenderit id. Reprehenderit consequat quis commodo dolore anim dolor in ad ipsum excepteur sit commodo."
             },
             {
                 "work_order_number": "WO-24708",
                 "name": "Brandy Kramer",
                 "company": "NETBOOK",
-                "phone":  "1 (583) 934-2381",
+                "phone_number":  "1 (583) 934-2381",
                 "summary": "Magna ullamco magna cillum commodo et irure non minim anim ut. Minim consequat Lorem amet eiusmod amet incididunt ea mollit. Sit nostrud labore officia mollit fugiat et velit veniam consectetur fugiat sit anim consectetur. Mollit sint ullamco culpa laboris occaecat. Laborum cillum eu voluptate nulla magna commodo sint adipisicing in adipisicing pariatur eu. Aute cillum irure officia non."
             },
             {
                 "work_order_number": "WO-25357",
                 "name": "Rachel Simpson",
                 "company": "SHADEASE",
-                "phone": "1 (415) 549-0273",
+                "phone_number": "1 (415) 549-0273",
                 "summary": "Et sunt nulla quis amet dolore tempor duis incididunt id. Elit mollit anim do magna enim eiusmod cillum voluptate laboris excepteur commodo. Minim sunt aliqua nulla deserunt est nulla eiusmod et exercitation ullamco. Consectetur voluptate exercitation consectetur cillum quis pariatur ad consequat elit sint. Incididunt nisi ullamco non labore laborum commodo nulla excepteur magna fugiat. In voluptate ex eu est magna anim in veniam ex dolore veniam nisi officia veniam. Labore mollit quis incididunt elit eu nisi excepteur nostrud proident."
             }
         ]
