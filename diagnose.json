@@ -10,10 +10,7 @@
     "description": "Total number of hits from clients to edge."
     },
 "edgeStatusCodeDistribution": {
-    "items": {
-    "$ref": "statusCodeDistribution.json",
-    "description": "Percentages and total hits for each status code for traffic between edge and client."}
-    },
+    "description": "Percentages and total hits for each status code for traffic between edge and client."},
 "originErrors": {
     "description": "The total number of reported errors for traffic between edge and origin."
     },
@@ -24,8 +21,6 @@
     "description": "Total number of hits from the edge to origin."
     },
 "originStatusCodeDistribution": {
-    "items": {
-    "$ref": "statusCodeDistribution.json",
     "description": "Percentages and total hits for each status code for traffic between edge and origin."
     }
-}}
+}
